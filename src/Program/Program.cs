@@ -1,4 +1,5 @@
-﻿namespace Observer
+﻿//Observer generico
+namespace Observer
 {
     class Program
     {
